@@ -1,1 +1,6 @@
 # desafioLetCode
+
+### INTEGRANTES ###
+
+JOSUÉ DOS SANTOS
+JÚLIA KRUGER
